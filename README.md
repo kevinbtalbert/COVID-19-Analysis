@@ -1,14 +1,18 @@
 # COVID-19 Big Data Project
 
+## Deliverable 1
 ---
 
 ## 1. Team
-Project Group # 18
+
+### Project Group # 18
 
  *a)  Member*
+
 Kevin Talbert
 
  *b)  Communication plan to include project artifact repository, meeting notes, meeting platform, etc.*
+
 Github Repo
 
 
@@ -45,6 +49,10 @@ I am interested in comparing National and State-level US COVID-19 data, particul
 ~ At what time were cases the highest?
 ~ What statistics can be observed from the dataset?
 
+
+## Deliverable 2
+---
+
 ## 5. Data Understanding
 
  *a)   Exploratory Data Analysis*
@@ -54,6 +62,10 @@ I am interested in comparing National and State-level US COVID-19 data, particul
 
 ## 6. Data Preparation
 
+
+
+## Deliverable 3
+---
 
 ## 7. Analytics, Machine Learning
 
