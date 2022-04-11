@@ -5,7 +5,7 @@
 
 ### 1. Team
 
-#### Project Group # 18
+#### Project Group # 6
 
  *a)  Member*
 
