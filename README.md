@@ -64,7 +64,7 @@ I am interested in comparing National and State-level US COVID-19 data, particul
 
  *a)   Exploratory Data Analysis*
  
- Exploratory Data Analysis was done through AWS Sagemaker. View the rendered file here: [Exploratory Data Analysis](ExploratoryDataAnalysis.ipynb)
+ Exploratory Data Analysis was done through AWS Sagemaker. View the rendered file here: [Exploratory Data Analysis](Deliverable%202%20Resources/ExploratoryDataAnalysis.ipynb)
 
  *b)   Dashboard*
 
