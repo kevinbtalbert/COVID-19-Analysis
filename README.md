@@ -71,6 +71,7 @@ I am interested in comparing National and State-level US COVID-19 data, particul
  Dashboard instances were created using AWS Quicksight and rendered as PDF files; however, due to billing limitations, the Dashboard instances are shutdown after analysis. The PDF extracts are available below. Additionally, these dashboards are analyzed in the Results section as a tool for evaluating the research objectives and questions.
  
  [US/National Covid-19 Dashboard PDF Extract](Project-Files/AWS-Quicksight/Dashboard_Analysis_o_2022-04-19T23_34_09.pdf)
+ 
  [US State-Level Covid-19 Dashboard PDF Extract](Project-Files/AWS-Quicksight/CDC_State_Data_Analy_2022-04-19T23_32_15.pdf)
 
 
