@@ -129,11 +129,11 @@ Cases were the highest nationally around the end of December 2021 through mid-to
 
 Importantly, this question was open-ended from the start to promote reflection on anomolies and interesting data points observed during and throughout data ingestion, analysis, and results finding. Several points emerged and are noted below:
 
-***Patients on ventilators spiked between the beginning of April 2020 through July 2020 as well as the beginning of November 2020 through February 2021.***
+*Patients on ventilators spiked between the beginning of April 2020 through July 2020 as well as the beginning of November 2020 through February 2021.*
 
-***Confirmed deaths and total death counts varied in proximity between states. This was interesting as it is a metric created by the CDC for additional verification that a death was indeed due to Covid-19 and not extunating factors; however, for the most part these numbers were in close range to one another.***
+*Confirmed deaths and total death counts varied in proximity between states. This was interesting as it is a metric created by the CDC for additional verification that a death was indeed due to Covid-19 and not other extenuating factors; however, for the most part these numbers were in close range to one another.*
 
-***Between Dec 26, 2021 and February 3, 2022, the US saw it's largest number of new cases recorded by over 400% of any previous counts of new cases.***
+*Between Dec 26, 2021 and February 3, 2022, the US saw it's largest number of new cases recorded by over 400% of any previous counts of new cases.*
 
 
 
