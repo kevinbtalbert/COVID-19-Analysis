@@ -155,4 +155,10 @@ The main problems surrounded billing and setup of AWS. AWS presents a unique cha
 Future work would include operationalizing the data; meaning, publishing the data views to Heroku or a similar deployment service for public access and consumption. A web app with the interactivity of charts like Bokeh could prove beneficial to an end-user in navigating and understanding the data presented in the project.
 
 #### Implementation of Work / Presentation Video
-Below is a narrated presentation video of the work presented in this project repo:
+Below are narrated presentation videos of the deliverables presented in this project repo:
+
+![Deliverable 1 Video](Project-Files/Deliverable-Videos/Deliverable1.mp4)
+
+![Deliverable 2 Video](Project-Files/Deliverable-Videos/Deliverable2.mp4)
+
+![Deliverable 3 Video](Project-Files/Deliverable-Videos/Deliverable3.mp4)
