@@ -157,10 +157,16 @@ Future work would include operationalizing the data; meaning, publishing the dat
 #### Implementation of Work / Presentation Video
 Below are narrated presentation videos of the deliverables presented in this project repo:
 
-![Deliverable 1 Video](Project-Files/Deliverable-Videos/Deliverable1.mp4)
+https://user-images.githubusercontent.com/32403721/166989905-c670f61f-e53d-4b67-8e51-1fec61eacf4f.mp4
 
-![Deliverable 2 Video](Project-Files/Deliverable-Videos/Deliverable2.mp4)
+[Deliverable 1 Video](Project-Files/Deliverable-Videos/Deliverable1.mp4)
 
-![Deliverable 3 Video](Project-Files/Deliverable-Videos/Deliverable3.mp4)
 
-Deliverable1.mp4
+https://user-images.githubusercontent.com/32403721/166990079-0a6e80ea-4c13-4eb8-9640-c2a4699d4395.mp4
+
+[Deliverable 2 Video](Project-Files/Deliverable-Videos/Deliverable2.mp4)
+
+
+https://user-images.githubusercontent.com/32403721/166990237-9570f497-1469-47eb-954f-6ba2c34d7296.mp4
+
+[Deliverable 3 Video](Project-Files/Deliverable-Videos/Deliverable3.mp4)
